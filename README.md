@@ -7,6 +7,8 @@
   -下記サイトを参考にインストールしてください。
   - https://zenn.dev/suzuky/articles/3d386719984beb
 - Inkscape
+  -Inkscapeはこちらからダウンロードしてください。
+  https://inkscape.org/release/inkscape-1.4.4/ 
 
 ## 作成するファイル
 

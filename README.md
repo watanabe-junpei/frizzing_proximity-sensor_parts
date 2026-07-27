@@ -108,7 +108,7 @@
 ### 6. 成果物を共有する
 
 - 作成した各種ファイルを作業者に共有する。
-  -完成例としては以下画像のようになる。
+  - 完成例としては以下画像のようになる。
   <img width="1113" height="1095" alt="raspi3_proximity-sensor_ブレッドボード" src="https://github.com/user-attachments/assets/d8daaac1-9929-428d-aa03-40b4952f8b80" />
 <img width="1086" height="1188" alt="raspi3_qr-scanner_breadboard" src="https://github.com/user-attachments/assets/a8e6a30a-3248-4b8d-a48c-2a5bc8197af2" />
  

@@ -22,6 +22,7 @@
 
 作成例は下記などにある。
 
+- https://github.com/watanabe-junpei/fritzing-parts
 - https://github.com/watanabe-junpei/frizzing_proximity-sensor_parts/tree/main
 
 ## 作成手順

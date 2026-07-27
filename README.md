@@ -2,7 +2,7 @@
 
 ## 回路図の作成のために使用するツール
 
-- Fritzing（無料版を使用するため、FritzingのGitHubからインストールする）
+- Fritzing（無料版を使用するため、FritzingのGitHubからインストールする）参考：https://zenn.dev/suzuky/articles/3d386719984beb
 - Inkscape
 
 ## 作成するファイル

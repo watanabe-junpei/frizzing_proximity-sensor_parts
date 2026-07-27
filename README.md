@@ -2,7 +2,10 @@
 
 ## 回路図の作成のために使用するツール
 
-- Fritzing（無料版を使用するため、FritzingのGitHubからインストールする）参考：https://zenn.dev/suzuky/articles/3d386719984beb
+- Fritzing
+  - 無料版を使用するため、FritzingのGitHubからインストールする。
+  -下記サイトを参考にインストールしてください。
+  - https://zenn.dev/suzuky/articles/3d386719984beb
 - Inkscape
 
 ## 作成するファイル
@@ -60,6 +63,9 @@
 
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 02 23" src="https://github.com/user-attachments/assets/0a76b7c9-bddc-40f2-844b-b9b53664624c" />
 
+<img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 02 34" src="https://github.com/user-attachments/assets/7459bc04-59a0-4c9a-a3c5-eba559f53961" />
+
+
 - 「`Icon`」タブを選択したあと、「`File > Reuse Breadboard Image`」を選択してパーツファイルのアイコンも変更する。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 05 35" src="https://github.com/user-attachments/assets/d9ba44dd-7db0-4042-893c-0e34a8d98004" />
 
@@ -90,8 +96,11 @@
 - 配置したラズパイの画像とセンサー画像を、実際に結線した通りに線を繋ぐ（色も合わせる）。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 19 06" src="https://github.com/user-attachments/assets/5aa630e2-09c2-4751-a708-b3893e0fc460" />
 
-`.fzz`ファイル、`.png`ファイルをエクスポートする。
+- `.fzz`ファイル、`.png`ファイルをエクスポートする。
+  - 「名前をつけて保存」をクリックし、'.fzz'ファイルを保存。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 26 20" src="https://github.com/user-attachments/assets/948b6a7c-9b2f-4d1b-af3c-adbe629e70a2" />
+
+  - 「エクスポート」→「as image」→「PNG」で`.png`ファイルを保存。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 27 06" src="https://github.com/user-attachments/assets/ab232ad7-d143-4512-9cdf-df1c411695a0" />
 
 ### 6. 成果物を共有する

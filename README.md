@@ -7,7 +7,7 @@
   -下記サイトを参考にインストールしてください。
   - https://zenn.dev/suzuky/articles/3d386719984beb
 - Inkscape
-  -Inkscapeはこちらからダウンロードしてください。
+  - Inkscapeはこちらからダウンロードしてください。
   https://inkscape.org/release/inkscape-1.4.4/ 
 
 ## 作成するファイル
@@ -98,12 +98,18 @@
 - 配置したラズパイの画像とセンサー画像を、実際に結線した通りに線を繋ぐ（色も合わせる）。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 19 06" src="https://github.com/user-attachments/assets/5aa630e2-09c2-4751-a708-b3893e0fc460" />
 
-- `.fzz`ファイル、`.png`ファイルをエクスポートする。
+- `.fzz`ファイル、`.png`ファイル、`.fzpz`ファイルをエクスポートする。
   - 「名前をつけて保存」をクリックし、'.fzz'ファイルを保存。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 26 20" src="https://github.com/user-attachments/assets/948b6a7c-9b2f-4d1b-af3c-adbe629e70a2" />
 
   - 「エクスポート」→「as image」→「PNG」で`.png`ファイルを保存。
 <img width="1440" height="900" alt="スクリーンショット 2026-07-27 10 27 06" src="https://github.com/user-attachments/assets/ab232ad7-d143-4512-9cdf-df1c411695a0" />
+
+  - 追加したパーツのタブの右上にExportまたはInportを行い、'fzpz'ファイルを保存。
+    - 'fzpz'ファイルは開けないというエラーが出る可能性があるため、保存後に一旦Fritzingツールを終了し、保存した'fzpz'ファイルが開けるか確認してください。
+<img width="1440" height="900" alt="スクリーンショット 2026-07-27 15 43 03" src="https://github.com/user-attachments/assets/8faac72a-b9d7-455b-880d-beefac309d8c" />
+
+
 
 ### 6. 成果物を共有する
 
